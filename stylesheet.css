@@ -37,8 +37,7 @@ header {
 
 .key-contents {
     padding: 160px 0 50px 0;
-    background-image: url(background-img1.jpg);
-    background-size: cover;
+    background-image: url(background.png);
 }
 
 .key-left {
